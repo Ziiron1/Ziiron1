@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Ziiron</h1>
 
-<h3 align="center">A passionate FrontEnd Developer</h3>
+<h3 align="center">A passionate FrontEnd Developer || Looking for a job </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
