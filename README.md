@@ -25,7 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziiron1&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ziiron1" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ziiron1&theme=dracula&border_radius=5&locale=en&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<h2>🏆  GitHub Profile Thophy </h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ziiron1&theme=darkhub&column=3&margin-w=15&margin-h=15)](https://github.com/Ziiron1/github-profile-trophy)
