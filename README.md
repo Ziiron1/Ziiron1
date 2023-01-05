@@ -9,9 +9,8 @@
 <br/>
 <div align="center">
 
-   [![](https://visitcount.itsvg.in/api?id=Ziiron1&icon=2&color=9)](https://visitcount.itsvg.in)
+   [![](https://visitcount.itsvg.in/api?id=Ziiron1&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 
-  
 </div>
 
 ## 🌐 Socials:
