@@ -1,6 +1,6 @@
 <h1 align="center">💫 About Me</h1>
 
-<h3 align="center">Sou um desenvolvedor Full-Stack Jr. com experiência em Node.js, Express, React, SQL e NoSQL, além de conhecimentos em Next.js e outras tecnologias. Atualmente estou em busca de novos desafios para aprimorar minhas habilidades técnicas e colaborar com o desenvolvimento de projetos inovadores. Além disso, sou apaixonado por aprender novas tecnologias e soluções para aprimorar o meu conhecimento em engenharia de software.</h3>
+<h3 align="center">Sou um desenvolvedor Full-Stack Jr. com experiência Web em Node.js, Express, React, SQL e NoSQL, além de conhecimentos em Next.js e outras tecnologias. Atualmente estou em busca de novos desafios para aprimorar minhas habilidades técnicas e colaborar com o desenvolvimento de projetos inovadores. Além disso, sou apaixonado por aprender novas tecnologias e soluções para aprimorar o meu conhecimento em engenharia de software.</h3>
 
 
 <div id="header" align="center">
